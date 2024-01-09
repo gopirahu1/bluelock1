@@ -1,0 +1,15 @@
+.left
+{
+padding-left: 3%;
+}
+.left1{
+ margin-left: 3%;
+ border-collapse: collapse;
+}
+.two{
+    border-collapse: collapse;
+}
+body{
+    background-color: black;
+    color: white;
+}
